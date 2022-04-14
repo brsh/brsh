@@ -11,9 +11,6 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=brsh&style=flat-square&color=blue" alt=""/>
 </div>
----
-
-- 👋 Hi, I’m @brsh
 
 ---
 
